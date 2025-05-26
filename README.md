@@ -3,6 +3,9 @@
 このプロジェクトは、「パーソナルAIレビューシステム」を体験するためのサンプルです。
 Hourly（時間ごと）、Daily（日ごと）、Weekly（週ごと）のレビューを通じて、活動の振り返りと計画立案をAIがサポートする様子を体験できます。
 
+## 概要資料
+https://speakerdeck.com/taokisky/pasonaruairebiyusisutemu
+
 ## 🚀 使い方
 
 1.  お使いのAI搭載エディタ（例: Cursor）でこのプロジェクトフォルダを開きます。
